@@ -1,4 +1,4 @@
-package Java_Basics;
+package Java_Basics.If_Else_If_Ladder;
 
 import java.util.Scanner;
 
